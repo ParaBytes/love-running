@@ -235,6 +235,10 @@ main {
         align-self: flex-end;
     }
 
+/* Meetup times section */
+    #meetups {
+        
+    }
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
